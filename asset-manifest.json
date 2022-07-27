@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/denneb-gomez/static/css/main.073c9b0a.css",
+    "main.js": "/denneb-gomez/static/js/main.19a83359.js",
+    "static/js/787.6a2202c8.chunk.js": "/denneb-gomez/static/js/787.6a2202c8.chunk.js",
+    "static/media/logo.svg": "/denneb-gomez/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/denneb-gomez/index.html",
+    "main.073c9b0a.css.map": "/denneb-gomez/static/css/main.073c9b0a.css.map",
+    "main.19a83359.js.map": "/denneb-gomez/static/js/main.19a83359.js.map",
+    "787.6a2202c8.chunk.js.map": "/denneb-gomez/static/js/787.6a2202c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19a83359.js"
+  ]
+}
